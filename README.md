@@ -1,5 +1,5 @@
 ## 🍔 Swiggy Sales Dashboard | Excel Data Analytics
-This project presents an interactive Swiggy Sales Dashboard created using Microsoft Excel as part of my Data Science learning journey.
+This project presents an ** interactive Swiggy Sales Dashboard ** created using ** Microsoft Excel ** as part of my ** Data Science learning journey. **
 The dashboard provides clear insights into sales performance, customer ratings, order trends, and city-wise distribution, helping businesses make data-driven decisions.
 
 ## 📊 Dashboard Overview
