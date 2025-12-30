@@ -38,4 +38,4 @@
 ## 🎥 Demo Video
 
 A short demo video showing dashboard interactivity is available on LinkedIn:
-👉 https://www.linkedin.com/posts/dhruv-rapariya_dataanalytics-datascience-excel-activity-7411617037342502912-o-In?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEs85PgB8KcskZoQPYPPd5Br5arj7AJevrk
+👉 https://www.linkedin.com/posts/dhruv-rapariya_dataanalytics-datascience-excel-activity-7411617037342502912-o-In/
